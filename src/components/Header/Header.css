@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Shrikhand&family=Source+Serif+Pro&display=swap');
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5740A0;
+}
+
+.Header{
+    font-family: 'Shrikhand', cursive;
+    font-weight: 300px;
+    color: white;
+    min-width: 90%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}

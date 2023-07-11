@@ -1,0 +1,16 @@
+select{
+    height: 50px;
+    width: 250px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 10px 15px;
+    font-size: 24px;
+    background-color: white;
+    margin-right: 1rem;
+}
+
+select option{
+    padding: 10px 25px;
+}

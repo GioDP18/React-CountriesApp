@@ -1,0 +1,22 @@
+.CountryCard{
+    color: white;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 17rem;
+    background-color: #9668F5;
+    display: flex;
+    flex-direction: column;
+}
+
+.CountryCard > img{
+    height: 10rem;
+    width: 16rem;
+    padding-bottom: 1.5rem;
+}
+
+.CountryCard .info{
+    flex-direction: column;
+    align-items: end;
+}

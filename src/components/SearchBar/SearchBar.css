@@ -1,0 +1,25 @@
+.SearchBar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 700px;
+    background-color: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 1.8rem;
+}
+
+form{
+    flex: 1;
+}
+
+form input{
+    height: 50px;
+    width: 97%;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 20px;
+    padding-left: 1rem;
+}
